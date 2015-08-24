@@ -5,7 +5,7 @@ Read full documentation at https://developers.astropaycard.com/
 
 Example
 
-<code>composer require astropay/cashoutcard</code>
+<code>composer require astropay/cashoutcard dev-master</code>
 
 copy code reference in public/index.php
 

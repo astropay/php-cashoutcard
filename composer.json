@@ -16,7 +16,6 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "guzzlehttp/guzzle": "6.0.2",
         "phpunit/phpunit": "4.8.5",
         "curl/curl": "^1.2"
     },

@@ -1,0 +1,25 @@
+{
+    "name": "astropay/cashoutcard",
+    "description": "Astropay Cashout-cash integration package",
+    "type": "library",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/astropay/cashoutcard",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Astropay LLP",
+            "email": "support@astropaycard.com",
+            "homepage": "https://astropaycard.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "CashoutCard\\": "src"
+        }
+    }
+}

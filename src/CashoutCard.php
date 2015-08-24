@@ -1,0 +1,7 @@
+
+namespace Astropay
+
+class CashoutCard
+{
+
+}

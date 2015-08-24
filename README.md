@@ -7,6 +7,8 @@ Example
 
 <code>composer require astropay/cashoutcard</code>
 
+copy code reference in public/index.php
+
 <?php
 include __DIR__ . '/../vendor/autoload.php';
 

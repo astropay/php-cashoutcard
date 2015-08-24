@@ -4,8 +4,10 @@ Read full documentation at https://developers.astropaycard.com/
 
 
 Example
-<code>
-<?php 
+
+<code>composer require astropay/cashoutcard</code>
+
+<?php
 include __DIR__ . '/../vendor/autoload.php';
 
 $login = 'merchant_x_login';
@@ -30,4 +32,3 @@ else{
     echo urldecode($api->getMessage());
 }
 
-</code>

@@ -20,7 +20,7 @@ $login = 'merchant_x_login';
 $trans_key = 'merchant_x_trans_key';
 $secret = 'merchant_secret';
 
-$api = new \Astropay\CashoutCard(Astropay\Constants::ENV_SANDBOX);
+$api = new \Astropay\CashoutCard(Astropay\constants::ENV_SANDBOX);
 $api->setCredentials($login, $trans_key, $secret);
 $api->setAmount(100);
 $api->setCurrency('USD');
